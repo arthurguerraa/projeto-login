@@ -8,7 +8,7 @@
  Extra large screens, TV – 1201px, and more.
 */
 
-@media screen and (min-width: 768px) and (max-width: 992) {
+@media screen and (min-width: 768px) and (max-width: 992px) {
     body{ /* CONFIGURAÇÃO PARA TABLET */
         background-image: linear-gradient(to top, #49A09D, #5F2C82);
     }
